@@ -1,4 +1,4 @@
-# Authors : Aaron Luchan and Masanbat Mulo
+
 import socket
 
 IP_ADDRESS = "127.0.0.1"
@@ -10,7 +10,7 @@ Half_buffer = 1048576 # half size of the file
 CC_Algorithm1 = "reno"  # CC Algorithm reno
 CC_Algorithm2 = "cubic"  # CC Algorithm cubic
 
-# Authentication number - XOR of the last 4 numbers of our IDs
+# Authentication number - XOR of those numbers
 auth_xor = str(9515 ^ 1940)
 
 # Reading the file:
