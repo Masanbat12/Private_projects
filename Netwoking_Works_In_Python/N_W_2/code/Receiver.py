@@ -1,4 +1,4 @@
-# Authors : Aaron Luchan and Masanbat Mulo
+
 import socket
 import time
 
@@ -6,7 +6,7 @@ HOST = '127.0.0.1'  # IP address of sender
 PORT = 65432  # Port to listen on
 Half_buffer = 1048576  # half size of the file
 BUFFER_SIZE = 8192  # common buffer size for network socket programming is 8192 bytes
-# Authentication number - XOR of the last 4 numbers of our IDs
+# Authentication number - XOR of those 2 numbers
 auth_xor = 9515 ^ 1940
 
 # CC Algorithms:
