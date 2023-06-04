@@ -80,7 +80,9 @@ select : לריבוי קלט/פלט .
 לאחר התחלת הטראדים, שיטת join נקראת בכל thread וממתינה עד שהם ישלימו את ביצועם לפני
 שהתוכנית תצא.
   
-  
+  <img width="283" alt="Screenshot 2023-06-04 144850" src="https://github.com/Masanbat12/private_projects/assets/93978448/f7a1e912-90d7-4047-b859-0e07bd5c74aa">
+<img width="284" alt="Screenshot 2023-06-04 144937" src="https://github.com/Masanbat12/private_projects/assets/93978448/e551b82b-018a-4d04-b376-0b8f8cc108e0">
+
   
   
   
