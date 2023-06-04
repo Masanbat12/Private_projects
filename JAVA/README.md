@@ -1,1 +1,1 @@
-# This file contains some solutions to a few exercise:
+# The first file contains some solutions to a few exercise.
